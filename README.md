@@ -100,4 +100,4 @@ plant-disease-streamlit/
 
 ---
 ## 🌐 Deployment
--The app is deployed using Streamlit Cloud directly from the GitHub repository.
+The app is deployed using Streamlit Cloud directly from the GitHub repository.
